@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1Hira0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I like anime
+- 🌱 I’m currently learning Javascript and Python, mostly python
+- I am a begginer so I would like to learn some things myself
 - 📫 How to reach me https://twitter.com/1Hira0
 
 <!---
