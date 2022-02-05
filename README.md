@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @1Hira0
-- 👀 I like anime
 - 🌱 I’m currently learning Javascript and Python, mostly python
 - I am a begginer so I would like to learn some things myself
 - 📫 How to reach me https://twitter.com/1Hira0
